@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋, I'm a junior frontend developer based in London</h2>
-<br></br>
 
 - 🔭 I’m currently working on [a website overhaul at george james ltd.](https://georgejamesltd.com/)*
 
