@@ -16,4 +16,4 @@
 <br></br>
 
 
-*<sub>New site is still under construction - Link takes you to current site</sub>
+<sub>* New site is still under construction - Link takes you to current site</sub>
