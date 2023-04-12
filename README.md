@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Tom</h1>
 <h3 align="left">A junior frontend developer from London</h3>
-
+<br></br>
 - 🔭 I’m currently working on [a website overhaul at george james ltd. Currently under construction - link takes you to current site.](https://georgejamesltd.com/)
 
 - 🌱 I’m currently learning **React.js**
