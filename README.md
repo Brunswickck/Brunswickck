@@ -4,11 +4,9 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 My portfolio [www.wevdeb.co.uk](www.wevdeb.co.uk)
+- 👨‍💻 My portfolio [www.toms-portfol.io](www.toms-portfol.io)
 
-- 📝 My artciles [medium.com/@tomburns.gj](medium.com/@tomburns.gj)
-
-- 📫 My contact **tomburns.vys@gmail.com**
+- 📫 My contact **hello@toms-portfol.io**
 <br></br>
 
 <h3 align="left">Languages and Tools:</h3>
